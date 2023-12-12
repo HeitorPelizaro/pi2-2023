@@ -1,0 +1,13 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.mt-3.rounded
+  .container
+    a.navbar-brand(href="/") Séries de TV
+    button.navbar-toggler(type="button", data-bs-toggle="collapse", data-bs-target="#navbarNav")
+      span.navbar-toggler-icon
+    #navbarNav.collapse.navbar-collapse
+      ul.navbar-nav.ml-auto
+        li.nav-item
+          a.nav-link(href="/bbt") #{bbt.nome}
+        li.nav-item
+          a.nav-link(href="/sn") #{sn.nome}
+        li.nav-item
+          a.nav-link(href="/st") #{st.nome}

@@ -1,0 +1,11 @@
+{
+    "title": "Programação para Internet II",
+    "message": "Hoje é 12 de setembro de 2023.",
+    "carros": [
+        "Fiat uno",
+        "Ford fiesta",
+        "Chevrolet celta",
+        "Chevrolet monza",
+        "Ford ka"
+    ]
+}
